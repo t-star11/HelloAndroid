@@ -1,0 +1,7 @@
+<!-- This code writes what the title of the app is called. If I were to modify this code I would change the app's name. -->
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="testing_android_app">Testing Android App</string>
+    <string name="description">This is where I would put a description for the app.</string>
+
+</resources>
